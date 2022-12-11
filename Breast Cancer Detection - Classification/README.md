@@ -1,6 +1,6 @@
 # Breast Cancer Detection - Classification - Pycaret
 
-**Complete Video Tutorial:** https://youtu.be/janK8osSKPs
+
 
 # Dataset Information
 
